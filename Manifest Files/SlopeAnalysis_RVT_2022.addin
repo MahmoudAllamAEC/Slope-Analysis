@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Slope Analysis</Name>
+    <Assembly>C:\Program Files\Allam\Slope Analysis\Slope Analysis-RVT-2022.dll</Assembly>
+    <FullClassName>Slope_Analysis.Revit.Entry.ExtApp</FullClassName>
+    <AddInId>39CBA9E5-38BB-4B02-AFFA-FF0B00C438E1</AddInId>
+    <VendorId>Mahmoud Allam</VendorId>
+    <VendorDescription>mahmoud.amr55@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
